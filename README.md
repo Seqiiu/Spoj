@@ -11,3 +11,4 @@ Submission History
 |2021.05.18|PP0505D - Gray code  | [GaryCode](https://pl.spoj.com/problems/PP0505D/)| [GaryCode.cs](https://github.com/Seqiiu/Spoj/blob/main/medium/Garycoode/Program.cs)| medium |
 |2021.05.18|TRN - Transponowanie macierzy| [TRN](https://pl.spoj.com/problems/TRN/)| [TRN.cs](https://github.com/Seqiiu/Spoj/blob/main/easy/TRN%20-%20Transponowanie%20macierzy/Program.cs)| easy  |
 |2021.05.17|TABLICA - Tablica| [Tablica](https://pl.spoj.com/problems/TABLICA/)| [Tablica.cs](https://github.com/Seqiiu/Spoj/blob/main/easy/Tablica/Program.cs)| easy  |
+|2021.05.17|CALC - Kalkulatol| [Kalkulator](https://pl.spoj.com/problems/CALC/)| [Kalkulator.cs](https://github.com/Seqiiu/Spoj/blob/main/easy/Kalkluator/Program.cs)| easy  |
