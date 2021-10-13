@@ -15,5 +15,6 @@ Submission History
 |2020.11.06|496|FCTRL3 - Dwie cyfry silni| [Silnia](https://pl.spoj.com/problems/FCTRL3/)| [Silnia.cs]()| easy  |
 |2020.11.06|499|PA05_POT - Czy umiesz potęgować| [Potęgowanie](https://pl.spoj.com/problems/PA05_POT/)| [Potęgowanie.cs]()| easy  |
 |2020.11.06|804|EUCGAME - Gra Euklidesa| [EUCGAME](https://pl.spoj.com/problems/EUCGAME/)| [EUCGAME.cs](https://github.com/Seqiiu/Spoj/blob/main/easy/EUCGAME%20-%20Gra%20Euklidesa/Program.cs)| easy  |
+|2020.11.06|804|EUCGAME - Gra Euklidesa| [EUCGAME](https://pl.spoj.com/problems/EUCGAME/)| [EUCGAME.cs](https://github.com/Seqiiu/Spoj/blob/main/easy/EUCGAME%20-%20Gra%20Euklidesa/Program.cs)| easy  |
 
 
