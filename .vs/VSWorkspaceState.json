@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\easy"
+    "\\easy",
+    "\\easy\\PA05_POT - Czy umiesz potęgować",
+    "\\easy\\PP0506A - Sort 1"
   ],
-  "SelectedNode": "\\medium",
+  "SelectedNode": "\\easy\\PA05_POT - Czy umiesz potęgować\\c++.cs",
   "PreviewInSolutionExplorer": false
 }
