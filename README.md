@@ -16,5 +16,7 @@ Submission History
 |2020.11.06|499|PA05_POT - Czy umiesz potęgować| [Potęgowanie](https://pl.spoj.com/problems/PA05_POT/)| [Potęgowanie.cs]()| easy  |
 |2020.11.06|804|EUCGAME - Gra Euklidesa| [EUCGAME](https://pl.spoj.com/problems/EUCGAME/)| [EUCGAME.cs](https://github.com/Seqiiu/Spoj/blob/main/easy/EUCGAME%20-%20Gra%20Euklidesa/Program.cs)| easy  |
 |2020.11.06|969|Równanie kwadratowe| [ROWNANIE](https://pl.spoj.com/problems/ROWNANIE/)| [ROWNANIE.cs](https://github.com/Seqiiu/Spoj/blob/main/easy/ROWNANIE%20-%20R%C3%B3wnanie%20kwadratowe/Program.cs)| easy  |
+|2020.11.23|617|PP0504B - StringMerge| [StringMerge](https://pl.spoj.com/problems/PP0504B/)| [StringMerge.cs](https://github.com/Seqiiu/Spoj/blob/main/easy/ROWNANIE%20-%20R%C3%B3wnanie%20kwadratowe/Program.cs)| easy  |
+
 
 
