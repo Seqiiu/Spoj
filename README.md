@@ -4,7 +4,7 @@ https://pl.spoj.com/
 
 Submission History
 ------------------
-|Date      |ID |Nazwa              | Link do zadania                              | Link do Rozwiązania                                | Poziom         |
+|Date      |ID  |Nazwa              | Link do zadania                              | Link do Rozwiązania                                | Poziom         |
 |----------|:-----:|-------------------|:--------------------------------------------:|:--------------------------------------------------:|-------------|
 |2021.03.12|663|PP0506A - Sort 1   | [Sort 1](https://www.spoj.com/problems/TEST/)|[Sort 1.cs](https://github.com/Seqiiu/Spoj/blob/main/easy/PP0506A%20-%20Sort%201/Program.cs)|easy |
 |2020.08.10|438|PRIME_T - Liczby Pierwsze  | [Prime_T](https://pl.spoj.com/problems/PRIME_T/)| [Prime_T.cs]()| easy   |
